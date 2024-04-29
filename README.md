@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Bannière animée](lien_vers_votre_image_animée.gif)
+
 
 <!--
 **3npC0nf1g/3npC0nf1g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
