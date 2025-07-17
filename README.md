@@ -11,7 +11,7 @@ Currently, I’m on the lookout for roles and collaborations that foster innovat
 
 Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate on something exciting!
 
-Let’s build the future together! 🚀
+Let’s build the future together! 
 
 
 
