@@ -2,7 +2,7 @@
 👋 Hi there! Welcome to my GitHub profile!
 
 
-Let’s build the future together! 
+I am Steve Teuma, feel free to contact me if you have any question
 
 
 
