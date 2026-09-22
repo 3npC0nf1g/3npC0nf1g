@@ -1,22 +1,11 @@
+# 👋 Hi, I'm Steve Teuma
 
-👋 Hi there! Welcome to my GitHub profile!
+I'm an **AI Engineer** focused on building production-ready AI systems with **LLMs, RAG, AI agents, prompt engineering, NLP, and Computer Vision**.
 
+I currently work on AI products involving **GPT, Claude, Gemini, tool calling, and MCP**, including AI-powered professional matching and agent-based workflows.
 
-I am Steve Teuma, feel free to contact me if you have any question
+I also have a strong **software engineering and full-stack background**, with experience in **Python, Java, TypeScript, React, Next.js, Spring Boot, Azure, and backend APIs**.
 
+🎓 **Master's in Computer Science** with a strong foundation in **algorithms, data structures, and software engineering**.
 
-
-<!--
-**3npC0nf1g/3npC0nf1g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my projects or reach out if you'd like to connect.
